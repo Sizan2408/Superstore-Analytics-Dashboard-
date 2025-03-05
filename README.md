@@ -30,6 +30,10 @@ Retail businesses often struggle with understanding sales trends, customer segme
 - Total Profit = SUM(Sales[Profit])
 - Top 5 Cities = RANKX(ALL(Sales[City]), SUM(Sales[Sales]), , DESC, DENSE)
 
+ ## Screenshot
+ ![Screenshot 2025-03-06 002901](https://github.com/user-attachments/assets/7ad0b173-c88b-48a3-8c16-79f86a140d6c)
+
+
 ## Project Insights
 This dashboard provides actionable insights into sales performance, customer behavior, and profitability, helping businesses:
 - Optimize marketing and sales strategies based on top-performing cities and segments.
